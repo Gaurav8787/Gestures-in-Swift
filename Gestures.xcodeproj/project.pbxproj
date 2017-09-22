@@ -14,6 +14,8 @@
 		F441531C1F74D6A700D3CA4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F441531A1F74D6A700D3CA4A /* LaunchScreen.storyboard */; };
 		F44153271F74D6A700D3CA4A /* GesturesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44153261F74D6A700D3CA4A /* GesturesTests.swift */; };
 		F44153321F74D6A700D3CA4A /* GesturesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44153311F74D6A700D3CA4A /* GesturesUITests.swift */; };
+		F44153401F74D6C700D3CA4A /* splashscreen.png in Resources */ = {isa = PBXBuildFile; fileRef = F441533F1F74D6C700D3CA4A /* splashscreen.png */; };
+		F44153421F74E3B300D3CA4A /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = F44153411F74E3B300D3CA4A /* second.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		F441532D1F74D6A700D3CA4A /* GesturesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GesturesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F44153311F74D6A700D3CA4A /* GesturesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GesturesUITests.swift; sourceTree = "<group>"; };
 		F44153331F74D6A700D3CA4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F441533F1F74D6C700D3CA4A /* splashscreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splashscreen.png; sourceTree = "<group>"; };
+		F44153411F74E3B300D3CA4A /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +106,9 @@
 				F44153151F74D6A600D3CA4A /* Main.storyboard */,
 				F44153181F74D6A700D3CA4A /* Assets.xcassets */,
 				F441531A1F74D6A700D3CA4A /* LaunchScreen.storyboard */,
+				F441533F1F74D6C700D3CA4A /* splashscreen.png */,
 				F441531D1F74D6A700D3CA4A /* Info.plist */,
+				F44153411F74E3B300D3CA4A /* second.png */,
 			);
 			path = Gestures;
 			sourceTree = "<group>";
@@ -237,7 +243,9 @@
 			files = (
 				F441531C1F74D6A700D3CA4A /* LaunchScreen.storyboard in Resources */,
 				F44153191F74D6A700D3CA4A /* Assets.xcassets in Resources */,
+				F44153401F74D6C700D3CA4A /* splashscreen.png in Resources */,
 				F44153171F74D6A600D3CA4A /* Main.storyboard in Resources */,
+				F44153421F74E3B300D3CA4A /* second.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
